@@ -690,6 +690,9 @@ html.lenis {
         padding: 0.8rem 1.5rem;
         font-size: 0.9rem;
     }
+      .section-header{
+        margin-bottom: 10px;
+    }
 }
 
 /* Products Section */
